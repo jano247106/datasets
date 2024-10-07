@@ -1,0 +1,23 @@
+1) ABTRAP - irelevantne
+2) HIKARI 2021 - myslim ze irelevantne pridane na git nutne rozhodnut
+3) The ADFA ... - nefunkcny link
+4) ISOT Dataset - nutne vypisat a zaslat ziadost
+5) Malicious URL Dataset - irelevantne
+6) ISOT Dataset - uz popisane na ID 29 nutne zaslat ziadost
+7) Analyza malwaru - moze byt vyuzitelne ale vytiahnut logy zo 14gb
+8) ARCS Data Sets
+	a) Unified Host and Network Data Set - neviem rozhodnut
+	b) User-Computer Authentication Associations in Time - Anonymizovane: https://csr.lanl.gov/data/auth/
+	c) Comprehensive, Multi-Source Cyber-Security Events - Tiez anonymizovane https://csr.lanl.gov/data/cyber1/
+9) Stratosphereips Datasets - Network traffic only
+10) Windows Malware Dataset with PE API Calls - irelevantne
+11) Kaggle - len link, ziadne konkretne datasety
+!!! 12) Cloudtrail - vyzeraju dobre, len su vsetky logy na 1 riadku
+13) MAWILab - only network traffic and analysis online
+14) EMBER - irelevantne
+15) Industrial Control System (ICS) Cyber Attack Datasets - industrialne data, irelevantne
+16) UNB - uz vhodne datasety pridane v Exceli
+17) Publicly available PCAP files - PCAP Network traffic
+18) Shadowbrokers EternalBlue EternalRomance PCAP Dataset - PCAP Network traffic
+21) AZSecure Data - irelevantne
+22) Secrepo - uz rozpisane na ID 26
