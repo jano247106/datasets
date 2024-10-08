@@ -1,0 +1,65 @@
+a) Network traffic:
+	Unified Host and Network Dataseet -  already in 13
+	Comprehensive, Multi-Source Cyber-Security Events - already in 13
+	User-Computer Authentication Associations in Time - already in 13
+	Canadian Institute for Cybersecurity datasets - already in table
+	KDD Cup 1999 - Irrelevant: Too anonymized
+	2017-SUEE-data-set - only PCAP
+	CTU-13 Dataset - only PCAP 
+	PCAP files - only PCAP
+	pcapt - only PCAP 
+	Project Sonar - .pkt file, prob. packet tracer
+	IoT devices captures - only PCAP 
+
+b) Malware: 
+	UNSW-NB15 data set - only malware table
+	Malware Training Sets - malware samples
+	The Drebin Dataset - malware apps
+	Stratosphere IPS - irrelevant
+	Microsoft Malware Classification Challenge - malware classification
+
+c) Software: 
+	Javascript Vulnerability dataset: irrelevant
+	
+d) WebApps:
+	West Point NSA Data Sets - page not found
+	Web Attack Payloads - irrelevant
+	Machine-Learning-driven-Web-Application-Firewall - irrelevant
+	Internet-Wide Scan Data Repository - irrelevant
+	500K HTTP Headers - irrelevant
+	HTTP DATASET CSIC 2010 - irrelevant
+	ISOT datasets - already in table
+	Web Logs Secrepo - already in table
+	Common Crawl - irrelevant
+	Website Classification Dataset - irrelevant
+	AZSecure-data - already in table
+
+e) URLs & Domain Names - all irrelevant
+
+f) Host 
+	The ADFA Intrusion Detection Datasets - could not find the dataset
+	Unified Host and Network Dataset - already in table
+	Public Security Log Sharing Site - already in table
+	Aktaion2 Data - prob. useless, only small dataset
+
+g) Email - all irrelevant
+
+h) Fraud - irrelevant
+
+i) Honeypots
+	DDS Dataset Collection - already in table
+	Threat_Research - irrelevant
+
+j) Binaries - irrelevant
+
+k) Phishing - irrelevant
+
+l) Passwords - irrelevant
+
+m) MISC 
+	Secrepo - already in table
+	PANDA SHARE - site not working
+	SHERLOCK irrelevant
+	WerdLists - irrelevant	
+	
+	
