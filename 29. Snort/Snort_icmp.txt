@@ -1,0 +1,8 @@
+{
+  "timestamp": "06/18-14:02:05.954858",
+  "class": "Generic ICMP event",
+  "msg": "ICMP Packet",
+  "priority": 3,
+  "src_addr": "192.168.1.6",
+  "dst_addr": "192.168.1.2"
+}
